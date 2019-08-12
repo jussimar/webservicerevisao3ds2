@@ -20,6 +20,7 @@
                 'titulo' => $linha['nm_livro'],
                 'autor' => $linha['nm_autor'],
                 'ano' => $linha['nm_autor'],
+                
             );
             $i++;
         }

@@ -17,6 +17,7 @@
                 'titulo' => $linha['nm_livro'],
                 'autor' => $linha['nm_autor'],
                 'ano' => $linha['ano'],
+                'imagem' => $linha['uri_imagem'],
               )
           );
         }
